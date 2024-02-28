@@ -52,7 +52,7 @@ const MenuData = [
 
 
 #### You need to inclue 02-learn React components images folder inside you public folder
-### [Folder Link](https://www.youtube.com/watch?v=CTSybII5FJw)
+### [Folder Link]([02-learn React components images](https://github.com/HamzahSikandar/React_Zero_to_Hero_Series/tree/main/02-learn%20React%20components%20images))
 #### index.js
 ```
 import React from "react";
