@@ -1,5 +1,5 @@
  # 02- Learn  React Components in One Video
-### [Video Link]([https://www.youtube.com/watch?v=CTSybII5FJw](https://youtu.be/dbrKwXzatmw?si=1VBUNkk7spZGdmAW))
+### [Video Link]([https://www.youtube.com/watch?v=CTSybII5FJw](https://youtu.be/dbrKwXzatmw?si=1VBUNkk7spZGdmAW)
 ## Source Code
 #### data.js
 ```
