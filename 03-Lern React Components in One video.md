@@ -1,4 +1,4 @@
- # 02- Learn  React Components in One Video
+ # 03- Learn  React Components in One Video
 ### [Video Link](https://youtu.be/dbrKwXzatmw?si=W0D-579WsgHMStug)
 ## Source Code
 #### data.js
