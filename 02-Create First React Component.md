@@ -1,4 +1,4 @@
-# 01- Create First React Component
+# 02- Create First React Component
 ### [Video Link](https://www.youtube.com/watch?v=CTSybII5FJw)
 ## Source Code
 #### index.js
