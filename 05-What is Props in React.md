@@ -1,4 +1,4 @@
- # 04- What is Props in React 
+ # 05- What is Props in React 
 
  ### [Video Link](https://youtu.be/Zrggn_knpB0?si=rAR75tt0kvUj8h-l)
 
