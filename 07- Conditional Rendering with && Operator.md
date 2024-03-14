@@ -1,4 +1,4 @@
- # 06- Conditional Rendering with && Operator In React 
+ # 07- Conditional Rendering with && Operator In React 
 
  ### [Video Link](https://youtu.be/dtTIeoJD_pY?si=TiB9oIwTADGmZlCh)
 
