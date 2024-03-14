@@ -1,4 +1,4 @@
- # 05- List Rendering in React 
+ # 06- List Rendering in React 
 
  ### [Video Link](https://youtu.be/T8fKlC1YK04?si=oI7xJ7YafH1iiR-p)
 
